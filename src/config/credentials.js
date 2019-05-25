@@ -1,9 +1,9 @@
 export const firebaseCredentials = {
-  apiKey: "AIzaSyCUiTv-AW-FQhr9nMUKOxkxsyQXq2W8z2E",
-  authDomain: "whatsapp-chat-8544f.firebaseapp.com",
-  databaseURL: "https://whatsapp-chat-8544f.firebaseio.com",
-  projectId: "whatsapp-chat-8544f",
-  storageBucket: "whatsapp-chat-8544f.appspot.com",
-  messagingSenderId: "811349771585",
-  appId: "1:811349771585:web:72bda6657c5b8784"
+  apiKey: "AIzaSyBVfrQJu6GOQRcc4djNZcgndsrXY5Q5UTM",
+  authDomain: "chat-app-561ae.firebaseapp.com",
+  databaseURL: "https://chat-app-561ae.firebaseio.com",
+  projectId: "chat-app-561ae",
+  storageBucket: "chat-app-561ae.appspot.com",
+  messagingSenderId: "353900786744",
+  appId: "1:353900786744:web:429f9c2415440a0a"
 };

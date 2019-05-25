@@ -29,6 +29,7 @@ export default class Home extends Component {
         const arr = [];
         res.forEach(doc => {
           arr.push(doc.data())
+          console.log(doc.data())
         });
 
         console.log(arr);
